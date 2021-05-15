@@ -1,0 +1,4 @@
+# Aliases extracted from modules themselves.
+alias ip6t_IMQ xt_IMQ
+alias ipt_IMQ xt_IMQ
+alias rtnl-link-imq imq
